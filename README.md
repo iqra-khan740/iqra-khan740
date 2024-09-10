@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning java,python and wev development
 - 💞️ I’m looking to collaborate on java and python projects
-- 📫 Here is my linkedIn account you can reach me out 
+- 📫 Here is my linkedIn account you can reach me out https://github.com/iqra-khan740/DEP
