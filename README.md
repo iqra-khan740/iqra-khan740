@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iqra khan
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning java,python and wev development
+- 🌱 I’m currently learning java,python and web development
 - 💞️ I’m looking to collaborate on java and python projects
 - 📫 Here is my linkedIn account you can reach me out www.linkedin.com/in/iqra-khan-779a44266
