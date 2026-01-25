@@ -26,10 +26,10 @@
 
 ## 💡 About Me
 
-Hi, I’m **Iqra Khan**, a **3rd-year university student** passionate about **Machine Learning, Deep Learning, and Computer Vision**.  
+Hi, I’m **Iqra Khan**, a **Final-year university student** passionate about **Machine Learning, Deep Learning, and Computer Vision**.  
 I enjoy breaking down complex research papers and turning them into **working, end-to-end projects**.
 
-- 🎓 Strong focus on ML & Data Analysis
+- 🎓 Strong focus on AI/ML & Data Analysis
 - 🧠 CNNs, ANN, SVM & image processing  
 - 📄 Research paper reproduction (hands-on learning)  
 - 🌐 ML-powered web apps with **FastAPI & Streamlit**
