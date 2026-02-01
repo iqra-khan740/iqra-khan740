@@ -80,6 +80,7 @@ I enjoy breaking down complex research papers and turning them into **working, e
       <p align="center">
         Document QA using embeddings & FAISS.
       </p>
+       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/RESULT.PNG"/>
     </td>
     </tr>
   </table>
