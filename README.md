@@ -82,6 +82,14 @@ I enjoy breaking down complex research papers and turning them into **working, e
       </p>
        <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/RESULT.PNG"/>
     </td>
+      <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Border Anomaly Detection</h3>
+      <p align="center">
+        YOLO based person and drone detection.
+      </p>
+       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl.PNG"/>
+     </td>
     </tr>
   </table>
 
