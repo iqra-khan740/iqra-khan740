@@ -89,7 +89,8 @@ I enjoy breaking down complex research papers and turning them into **working, e
         YOLO based person and drone detection.
       </p>
        <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl.PNG"/>
-     </td>
+       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl1.PNG"/>
+    </td>
     </tr>
   </table>
 
