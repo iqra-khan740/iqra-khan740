@@ -74,6 +74,7 @@ I enjoy breaking down complex research papers and turning them into **working, e
       <p align="center">
         CNN-based low-light image enhancement using RAW images.
       </p>
+      <img src="https://github.com/iqra-khan740/Insta-Poast/blob/main/test.png"/>
      </td>
     <td width="50%" valign="top">
       <h3 align="center">🔎 RAG Experiments</h3>
