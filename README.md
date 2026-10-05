@@ -9,7 +9,7 @@
 
 <!-- ======== TYPING LINE ======== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=5F9EA0&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Vision+%7C+CNN+Projects;AI+Research+to+Real+World+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=5F9EA0&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Vision+%7C+CNN+Projects;AI+Workflow+Automation+with+n8n%2C+Make+%26+Zapier;AI+Research+to+Real+World+Apps" />
 </div>
 
 <!-- ======== BADGES ======== -->
@@ -33,6 +33,21 @@ I enjoy breaking down complex research papers and turning them into **working, e
 - 🧠 CNNs, ANN, SVM & image processing  
 - 📄 Research paper reproduction (hands-on learning)  
 - 🌐 ML-powered web apps with **FastAPI & Streamlit**
+- ⚙️ AI workflow automation with **n8n, Make & Zapier**
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6A5ACD" width="100%"/>
+</p>
+
+## 🎯 Current Focus: Automation
+
+I’m currently focused on **AI-powered workflow automation**: connecting LLMs with the tools businesses already use.
+
+- ⚙️ Building end-to-end automations with **n8n**, **Make** and **Zapier**
+- 🔗 Integrating **Airtable, Gmail, Google Drive & Google Calendar** with AI models (Groq)
+- 🧪 Designing and testing webhooks & APIs with **Postman**
+- 🚀 Latest project: [**AI Client Acquisition & Onboarding System**](https://github.com/iqra-khan740/N8N_AI_Client_Acquisition_Onboarding_Challenge): lead intake, AI reply classification, scheduling, follow-ups and weekly reports
 
 <!-- DIVIDER -->
 <p align="center">
@@ -60,6 +75,13 @@ I enjoy breaking down complex research papers and turning them into **working, e
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-9370DB?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-5F9EA0?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-7B68EE?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-6A5ACD?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6A5ACD" width="100%"/>
@@ -68,32 +90,33 @@ I enjoy breaking down complex research papers and turning them into **working, e
 ## 🚀 Featured Projects
 
 <table>
-    <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌙 Learning to See in the Dark</h3>
       <p align="center">
         CNN-based low-light image enhancement using RAW images.
       </p>
-      <img src="https://github.com/iqra-khan740/Insta-Poast/blob/main/test.png"/>
-     </td>
+      <img src="https://github.com/iqra-khan740/Insta-Poast/blob/main/test.png?raw=true"/>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🔎 RAG Experiments</h3>
       <p align="center">
         Document QA using embeddings & FAISS.
       </p>
-       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/RESULT.PNG"/>
+      <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/RESULT.PNG?raw=true"/>
     </td>
-      <tr>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Border Anomaly Detection</h3>
       <p align="center">
         YOLO based person and drone detection.
       </p>
-       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl.PNG"/>
-       <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl1.PNG"/>
+      <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl.PNG?raw=true"/>
+      <img src="https://github.com/iqra-khan740/iqra-khan740/blob/main/UPupl1.PNG?raw=true"/>
     </td>
-    </tr>
-  </table>
+  </tr>
+</table>
 
 <!-- DIVIDER -->
 <p align="center">
@@ -135,4 +158,3 @@ I enjoy breaking down complex research papers and turning them into **working, e
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=9370DB" width="100%"/>
 </p>
-
